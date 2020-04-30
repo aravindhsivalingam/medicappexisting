@@ -29,7 +29,7 @@
     "clipboard": "2.0.4",
     "core-js": "2.6.4",
     "crypto-js": "^4.0.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ng-notyf": "^0.4.0",
     "ngx-clipboard": "11.1.9",
     "ngx-extended-pdf-viewer": "^1.5.2",
